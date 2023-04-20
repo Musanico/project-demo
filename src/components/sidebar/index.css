@@ -1,0 +1,11 @@
+.sidebar{
+    position: fixed;
+    right: 150px;
+    top: 500px;
+    width: 289px;
+    height: 150px;
+}
+
+.inline{
+    margin-bottom: 8px;
+}

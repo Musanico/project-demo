@@ -9,13 +9,13 @@ function Layout(){
   return(
       <div>
         <Nav/>
-        <div className="body">
+        <div className="layout-body">
           <Graph/>
           <div className="middle">
             <Project/>
+            <Notice/>
             <Calendar/>
           </div>
-          <Notice/>
         </div>
       </div>
   )

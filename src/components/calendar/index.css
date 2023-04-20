@@ -1,3 +1,20 @@
 .cal{
     float: right;
+    position: absolute;
+    right: 210px;
+    top: 0;
+}
+
+.cal-card{
+    float: right;
+
+}
+
+.cal-all{
+    position: relative;
+}
+
+.cal-title{
+    font-size: 18px;
+    font-weight: initial;
 }

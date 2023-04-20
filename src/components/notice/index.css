@@ -1,4 +1,11 @@
 .card{
     float: left;
-    width: 400px;
+    width: 550px;
 }
+
+.bread-title{
+    font-size: 22px;
+    color: darkgray;
+    font-weight: lighter;
+}
+

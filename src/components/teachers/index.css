@@ -1,0 +1,58 @@
+.teacher-card{
+    height: 200px;
+    position: relative;
+    margin-bottom: 30px;
+}
+
+.teachers-p1{
+    display: block;
+    position: absolute;
+    top: 40px;
+    left: 60px;
+    width: 100px;
+    height: 20px;
+    font-size: 30px;
+    font-family: title;
+}
+
+.teachers-p2{
+    display: block;
+    position: absolute;
+    top: 120px;
+    left: 60px;
+    width: 600px;
+    height: 20px;
+    font-size: 18px;
+    font-weight: initial;
+}
+
+.teachers-p3{
+    display: block;
+    position: absolute;
+    top: 80px;
+    right: 20px;
+    width: 200px;
+    height: 20px;
+    font-size: 22px;
+    font-weight: initial;
+}
+
+.teachers-b1{
+    position: absolute;
+    top: 55px;
+    left: 145px;
+}
+
+.teachers-b2{
+    position: absolute;
+    top: 75px;
+    right: 90px;
+}
+
+.teachers-d1{
+    position: absolute;
+    top: 120px;
+    left: 60px;
+    width: 200px;
+    height: 20px;
+}

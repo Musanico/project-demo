@@ -71,11 +71,14 @@ const Nav = () => {
     setCurrent(e.key);
   };
 
-  return (<div className="all">
-    <p className="title">圣光机科技创新平台</p>
-    <Menu className="menu" onClick={onClick} selectedKeys={[current]} mode="horizontal" items={items} />
-    <Avatar size={50} className="avatar" src={url} />
-  </div>);
+  return (
+      <div className="nav-all">
+        <div className="all">
+          <p className="title">圣光机科技创新平台</p>
+          <Menu className="menu" onClick={onClick} selectedKeys={[current]} mode="horizontal" items={items} />
+          <Avatar size={50} className="avatar1" src={url} />
+        </div>
+      </div>
+  );
 };
-
 export default Nav;

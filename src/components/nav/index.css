@@ -1,17 +1,25 @@
-.all{
+.nav-all{
     width: 100%;
-    height: 46px;
+    height: 60px;
     position: fixed;
     top: 0;
+    z-index: 999;
+    background-color: white;
+}
+
+.all{
+    width: 100%;
+    height: 50px;
+    position: fixed;
+    top: 10px;
     overflow: hidden;
     float: left;
-    z-index: 999;
     background-color: white;
 }
 
 .title{
     position: fixed;
-    top: 10px;
+    top: 20px;
     left: 200px;
 
     width: 200px;
@@ -27,9 +35,9 @@
     right: 200px;
 }
 
-.avatar{
+.avatar1{
     position: fixed;
 
     right: 142px;
-    top: -2px;
+    top: 8px;
 }

@@ -1,4 +1,9 @@
 .card{
     float: left;
-    width: 400px;
+    width: 250px;
+    margin-right: 20px;
+}
+
+.project-title{
+    font-size: 22px;
 }

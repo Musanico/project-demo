@@ -1,11 +1,9 @@
-.layout-body{
+.select-body{
+    position: fixed;
     width: 1152px;
-    margin: auto;
-}
-
-.middle{
-    margin-top: 50px;
-    width: 1152px;
+    height: 1000px;
+    right: 365px;
+    top: 100px;
 }
 
 ::-webkit-scrollbar{

@@ -1,0 +1,48 @@
+.side{
+    position: fixed;
+    right: 150px;
+    top: 100px;
+    width: 289px;
+    height: 374px;
+}
+
+.avatar2{
+    margin-left: 54px;
+}
+
+.name{
+    width: 100px;
+    margin: auto;
+    font-family: title;
+    font-size: 30px;
+}
+
+.apply{
+    width: 90px;
+    margin-top: 45px;
+    margin-left: 6px;
+    float: left;
+}
+
+.collect{
+    width: 90px;
+    margin-top: 45px;
+    margin-left: 60px;
+    float: left;
+}
+
+.number{
+    font-size: 20px;
+    display: block;
+    width: 22px;
+    margin: auto;
+}
+
+.text{
+    display: block;
+    font-family: title;
+    font-size: 20px;
+    width: 80px;
+    height: 20px;
+    margin: auto;
+}
