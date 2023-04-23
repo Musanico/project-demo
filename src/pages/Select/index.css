@@ -1,9 +1,8 @@
 .select-body{
-    position: fixed;
     width: 1152px;
     height: 1000px;
-    right: 365px;
-    top: 100px;
+    margin-left: 195px;
+    margin-top: 180px;
 }
 
 ::-webkit-scrollbar{

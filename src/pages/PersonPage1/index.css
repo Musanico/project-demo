@@ -1,0 +1,22 @@
+.tp1-sidebar{
+    width: 1300px;
+    margin: 100px auto auto;
+}
+
+.tp1-main{
+    width: 1000px;
+    height: 800px;
+    background-color: white;
+    position: fixed;
+    left: 330px;
+    top: 100px;
+    border-radius: 10px;
+}
+
+.tp1-avatar{
+    width: 200px;
+    position: fixed;
+    right: 400px;
+    top: 120px;
+
+}

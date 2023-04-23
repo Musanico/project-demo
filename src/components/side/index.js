@@ -2,10 +2,9 @@ import {Avatar, Card} from 'antd';
 import React from 'react';
 import "@/components/side/index.css"
 const Side = () => {
-  const url = "https://avatars.githubusercontent.com/u/108330876?s=400&u=0c5c811a193fd0dac9e46348ac2104dcea881654&v=4"
   return (
       <Card style={{width: 300}} className="side">
-        <Avatar className="avatar2" src={<img src={url} alt="avatar"/>} size={150}/>
+        <Avatar className="avatar2" src={<img src={require("@/assets/avatar.jpg")} alt="avatar"/>} size={150}/>
         <div>
           <div className="name">
             舒佳恒
