@@ -4,6 +4,7 @@ import Layout from '@/pages/Layout'
 import Select from '@/pages/Select'
 import PersonPage1 from '@/pages/PersonPage1'
 import PersonPage2 from '@/pages/PersonPage2'
+import Talk from "@/pages/Talk";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
            <Route path="/select" element={<Select/>}></Route>
            <Route path="/personpage1" element={<PersonPage1/>}></Route>
            <Route path="/personpage2" element={<PersonPage2/>}></Route>
+           <Route path="/talk" element={<Talk/>}></Route>
          </Routes>
         </div>
       </BrowserRouter>

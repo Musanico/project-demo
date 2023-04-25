@@ -1,0 +1,21 @@
+.talk-main{
+    width: 920px;
+    height: 800px;
+    background-color: white;
+    position: fixed;
+    left: 330px;
+    top: 100px;
+    border-radius: 10px;
+}
+
+.talk-side{
+    width: 1300px;
+    margin: 100px auto auto;
+}
+
+.talk-star{
+    font-size: 20px;
+    margin-right: 15px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}

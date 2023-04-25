@@ -15,7 +15,7 @@ const items = [
       getItem('教师简介', '/personpage1'),
       getItem('教师成果', '/personpage2'),
       getItem('教师图谱','/personpage3'),
-      getItem('在线聊天','/personpage4'),
+      getItem('在线聊天','/talk'),
 ];
 const PersonSidebar = (props) => {
   const navigate = useNavigate();

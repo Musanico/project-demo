@@ -4,19 +4,18 @@
 }
 
 .tp1-main{
-    width: 1000px;
-    height: 400px;
+    width: 920px;
+    height: 800px;
     background-color: white;
     position: fixed;
     left: 330px;
     top: 100px;
-    border: lightsalmon solid 1px;
     border-radius: 10px;
 }
 
 .tp1-avatar{
     width: 200px;
-    margin-right: 50px;
+    margin-right: 30px;
     margin-top: 50px;
     float: right;
 
@@ -44,6 +43,14 @@
 .tp1-email{
     width: 500px;
     position: fixed;
-    margin-top: 115px;
-    margin-left: 280px;
+    margin-top: 350px;
+    margin-left: 80px;
+}
+
+.tp1-b1{
+    float: right;
+    margin-right: 100px;
+    margin-top: 380px;
+    color: white;
+    background-color: coral;
 }

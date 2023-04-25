@@ -1,7 +1,7 @@
 .teacher-card {
     height: 120px;
     position: relative;
-    border-bottom: lightsalmon solid 1px;
+    border: lightsalmon solid 1px;
     border-radius: 0;
 }
 
@@ -44,4 +44,14 @@
     right: 50px;
     color: white;
     background-color: coral;
+}
+
+.teachers-like{
+    margin-left: 865px;
+    margin-right: 10px;
+    font-size: 20px;
+}
+
+.teachers-star{
+    font-size: 20px;
 }
