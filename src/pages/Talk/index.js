@@ -1,7 +1,7 @@
 import styles from '@chatscope/chat-ui-kit-styles/dist/default/styles.min.css'
 import {
     ChatContainer,
-    ConversationHeader, InfoButton,
+    ConversationHeader,
     Message, MessageGroup,
     MessageInput,
     MessageList,
@@ -18,11 +18,9 @@ import {FileWordTwoTone, FolderAddTwoTone, LikeTwoTone, StarTwoTone} from "@ant-
 
 
 function Talk() {
-    const remoteSender = "Kai";
     const localSender = "You";
     const groupIdRef = useRef(0);
     const msgIdRef = useRef(0);
-    const remoteMsgCnt = useRef(0);
     const inputRef = useRef();
     const [msgInputValue, setMsgInputValue] = useState("");
     const [groups, setGroups] = useState([]);

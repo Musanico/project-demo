@@ -4,24 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cc3cf8b-5c77-449e-93b0-49e4e332110c" name="变更" comment="4">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/musanico.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/demo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/person-sidebar/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/person-sidebar/index.js" afterDir="false" />
+    <list default="true" id="6cc3cf8b-5c77-449e-93b0-49e4e332110c" name="变更" comment="5">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/teachers/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/teachers/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/teachers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/teachers/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/PersonPage1/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/PersonPage1/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/PersonPage1/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/PersonPage1/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Select/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Select/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Talk/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Talk/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/Talk/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Talk/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -187,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682404845860</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="5">
+      <created>1682443041919</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1682443041919</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,6 +193,7 @@
     <MESSAGE value="2" />
     <MESSAGE value="3" />
     <MESSAGE value="4" />
-    <option name="LAST_COMMIT_MESSAGE" value="4" />
+    <MESSAGE value="5" />
+    <option name="LAST_COMMIT_MESSAGE" value="5" />
   </component>
 </project>
