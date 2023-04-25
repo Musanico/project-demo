@@ -1,4 +1,24 @@
 .tp2-sidebar{
-    width: 1000px;
+    width: 1300px;
     margin: 100px auto auto;
+}
+
+.tp2-main{
+    width: 1000px;
+    height: 400px;
+    background-color: white;
+    position: fixed;
+    left: 330px;
+    top: 100px;
+    border: lightsalmon solid 1px;
+    border-radius: 10px;
+}
+
+.tp2-intro{
+    width: 900px;
+    font-weight: initial;
+    margin-top: 100px;
+    margin-left: 50px;
+    line-height: 30px;
+    text-indent: 30px;
 }

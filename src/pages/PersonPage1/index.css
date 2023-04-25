@@ -5,18 +5,45 @@
 
 .tp1-main{
     width: 1000px;
-    height: 800px;
+    height: 400px;
     background-color: white;
     position: fixed;
     left: 330px;
     top: 100px;
+    border: lightsalmon solid 1px;
     border-radius: 10px;
 }
 
 .tp1-avatar{
     width: 200px;
-    position: fixed;
-    right: 400px;
-    top: 120px;
+    margin-right: 50px;
+    margin-top: 50px;
+    float: right;
 
+
+}
+
+.tp1-name{
+    width: 150px;
+    height: 50px;
+    font-size: 40px;
+    margin-top: 100px;
+    margin-left: 115px;
+    float: left;
+}
+
+.tp1-intro{
+    width: 700px;
+    font-weight: initial;
+    margin-top: 200px;
+    margin-left: 20px;
+    line-height: 25px;
+    text-indent: 30px;
+}
+
+.tp1-email{
+    width: 500px;
+    position: fixed;
+    margin-top: 115px;
+    margin-left: 280px;
 }
