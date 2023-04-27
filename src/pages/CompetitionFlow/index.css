@@ -1,0 +1,54 @@
+.flow-sidebar{
+    width: 1300px;
+    margin: 100px auto auto;
+}
+
+.flow-main{
+    width: 1000px;
+    height: 880px;
+    background-color: white;
+    position: fixed;
+    left: 330px;
+    top: 100px;
+    border: lightsalmon solid 1px;
+    border-radius: 10px;
+}
+
+.flow-intro{
+    width: 1000px;
+    height: 300px;
+    margin-top: 180px;
+    border-top: lightsalmon solid 1px;
+}
+
+.flow-intro p{
+    display: block;
+    float: left;
+}
+
+.flow-intro-line1{
+    width: 800px;
+    height: 50px;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.flow-intro-p1{
+    font-size: 20px;
+    font-weight: bold;
+    color: grey;
+}
+
+.flow-intro-p2{
+    font-size: 20px;
+}
+
+.flow-b{
+    margin-left: 450px;
+    margin-top: 50px;
+    width: 80px;
+    height: 40px;
+    color: white;
+    font-size: 17px;
+    background-color: coral;
+}

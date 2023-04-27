@@ -1,4 +1,4 @@
-import "@/pages/PersonPage2/index.css"
+import "@/pages/PersonPage-achieve/index.css"
 import Nav from '@/components/nav'
 import PersonSidebar from '@/components/person-sidebar'
 import ScrollLock from 'react-scrolllock'

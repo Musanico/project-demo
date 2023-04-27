@@ -7,7 +7,7 @@ import {
     MessageList,
     TypingIndicator,
 } from "@chatscope/chat-ui-kit-react";
-import "@/pages/Talk/index.css"
+import "@/pages/PersonPage-talk/index.css"
 import Nav from "@/components/nav";
 import Side from "@/components/side";
 import Sidebar from "@/components/sidebar";
@@ -119,7 +119,7 @@ function Talk() {
                                 </MessageGroup.Messages>
                             </MessageGroup>)}
                         </MessageList>
-                        <MessageInput placeholder="输入你想对老师说的话~" onSend={m => handleSend(m, localSender)} onChange={setMsgInputValue} value={msgInputValue} ref={inputRef} />
+                        <MessageInput placeholder="输入你想对老师说的话~" onSend={m => handleSend(m, localSender)} onChange={setMsgInputValue} value={msgInputValue} ref={inputRef}/>
                     </ChatContainer>
                 </div>
             </div>

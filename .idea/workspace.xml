@@ -4,14 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cc3cf8b-5c77-449e-93b0-49e4e332110c" name="变更" comment="5">
-      <change afterPath="$PROJECT_DIR$/src/components/commentBox/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/commentBox/index.js" afterDir="false" />
+    <list default="true" id="6cc3cf8b-5c77-449e-93b0-49e4e332110c" name="变更" comment="6">
+      <change afterPath="$PROJECT_DIR$/src/components/comp-sidebar/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/comp-sidebar/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/steps/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/steps/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/CompetitionFlow/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/CompetitionFlow/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/CompetitionNotice/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/CompetitionNotice/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/teachers/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/teachers/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/nav/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/nav/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/Layout/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Layout/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/PersonPage1/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/PersonPage1/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/PersonPage1/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/PersonPage1/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/PersonPage1/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/PersonPage-intro/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/PersonPage1/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/PersonPage-intro/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/PersonPage2/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/PersonPage-achieve/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/PersonPage2/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/PersonPage-achieve/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Talk/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/PersonPage-talk/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Talk/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/PersonPage-talk/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +43,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/node_modules/@chatscope/chat-ui-kit-react/src/components/MessageInput/MessageInput.d.ts" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/pages/Talk/index.js" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -48,28 +60,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/个人/Project/Policy-retrieval-system&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Developer\\WebStorm 2023.1\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Developer/workplace/Webstorm_workplace/ReactProject/demo/src/pages",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "C:\\Developer\\WebStorm 2023.1\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="Push.Settings">
     <force-push-targets>
       <force-push-target remote-path="origin" branch="main" />
@@ -77,11 +88,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Developer\workplace\Webstorm_workplace\ReactProject\demo\src\pages" />
       <recent name="D:\Musanico\Developer\workplace\Webstorm_workplace\ReactProject\demo\public" />
       <recent name="D:\Musanico\Developer\workplace\Webstorm_workplace\ReactProject\demo\src\assets" />
       <recent name="D:\Musanico\Developer\workplace\Webstorm_workplace\ReactProject\demo\src\pages\PersonPage2" />
       <recent name="D:\Musanico\Developer\workplace\Webstorm_workplace\ReactProject\demo\public\img\rotograph" />
-      <recent name="D:\Musanico\Developer\workplace\Webstorm_workplace\ReactProject\demo\public\fonts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Musanico\Developer\workplace\Webstorm_workplace\ReactProject\demo\src\assets" />
@@ -143,7 +154,9 @@
       <workItem from="1682441677695" duration="2000" />
       <workItem from="1682494334300" duration="7706000" />
       <workItem from="1682502822493" duration="56000" />
-      <workItem from="1682573238172" duration="1169000" />
+      <workItem from="1682573238172" duration="1212000" />
+      <workItem from="1682581115309" duration="2187000" />
+      <workItem from="1682602460617" duration="11102000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1681834929780</created>
@@ -194,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682443657878</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="6">
+      <created>1682575212714</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1682575212714</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -207,6 +227,7 @@
     <MESSAGE value="3" />
     <MESSAGE value="4" />
     <MESSAGE value="5" />
-    <option name="LAST_COMMIT_MESSAGE" value="5" />
+    <MESSAGE value="6" />
+    <option name="LAST_COMMIT_MESSAGE" value="6" />
   </component>
 </project>

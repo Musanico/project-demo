@@ -23,7 +23,7 @@ const items: MenuProps['items'] = [
   },
   {
     label: '竞赛相关',
-    key: 'competition',
+    key: '/competition',
     icon: <GithubOutlined />,
     inlineCollapsed: false
   },

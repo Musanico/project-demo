@@ -1,0 +1,68 @@
+.comp-sidebar{
+    width: 1300px;
+    margin: 100px auto auto;
+}
+
+.comp-main{
+    width: 1000px;
+    height: 880px;
+    background-color: white;
+    position: fixed;
+    left: 330px;
+    top: 100px;
+    border: lightsalmon solid 1px;
+    border-radius: 10px;
+}
+
+.comp-intro{
+    width: 900px;
+    font-weight: initial;
+    margin-top: 100px;
+    margin-left: 50px;
+    line-height: 30px;
+    text-indent: 30px;
+}
+
+.comp-comp-name{
+    width: 800px;
+    height: 50px;
+    font-size: 30px;
+    margin-left: 220px;
+}
+
+.comp-comp-people{
+    width: 400px;
+    height: 50px;
+    font-size: 20px;
+    margin-left: 500px;
+}
+
+.comp-notice{
+    width: 600px;
+    height: 400px;
+    border: lightsalmon solid 1px;
+    border-radius: 10px;
+    margin: auto;
+}
+
+.comp-link{
+    width: 200px;
+    height: 50px;
+    margin-left: 720px;
+    margin-top: 100px;
+}
+
+.comp-time{
+    width: 200px;
+    height: 50px;
+    margin-left: 720px;
+}
+
+.comp-b{
+    margin-left: 720px;
+    width: 80px;
+    height: 40px;
+    color: white;
+    font-size: 17px;
+    background-color: coral;
+}
