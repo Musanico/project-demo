@@ -5,7 +5,7 @@
 
 .tp1-main{
     width: 920px;
-    height: 800px;
+    height: 430px;
     background-color: white;
     position: fixed;
     left: 330px;
@@ -13,29 +13,45 @@
     border-radius: 10px;
 }
 
+.tp1-commentPlace{
+    width: 920px;
+    height: 430px;
+    background-color: white;
+    position: fixed;
+    left: 330px;
+    top: 540px;
+    border-radius: 10px;
+}
+
 .tp1-avatar{
     width: 200px;
-    margin-right: 30px;
+    margin-right: 70px;
     margin-top: 50px;
     float: right;
 
 
 }
 
-.tp1-name{
+.tp1-name-title{
     width: 150px;
     height: 50px;
     font-size: 40px;
-    margin-top: 100px;
-    margin-left: 115px;
+    margin-top: 60px;
+    margin-left: 30px;
     float: left;
+}
+
+.tp1-intro-subtitle{
+    margin-top: 120px;
+    margin-left: 30px;
+    line-height: 25px;
+    font-weight: lighter;
 }
 
 .tp1-intro{
     width: 700px;
     font-weight: initial;
-    margin-top: 200px;
-    margin-left: 20px;
+    margin-top: 20px;
     line-height: 25px;
     text-indent: 30px;
 }
@@ -43,14 +59,36 @@
 .tp1-email{
     width: 500px;
     position: fixed;
-    margin-top: 350px;
-    margin-left: 80px;
+    margin-top: 130px;
+    margin-left: 300px;
 }
 
 .tp1-b1{
     float: right;
-    margin-right: 100px;
-    margin-top: 380px;
+    margin-right: 665px;
+    margin-top: -300px;
     color: white;
     background-color: coral;
 }
+
+.tp1-intro-line{
+    width: 500px;
+    height: 50px;
+    margin-bottom: -30px;
+    font-size: 10px;
+}
+
+.tp1-intro-line p{
+    display: block;
+    float: left;
+}
+
+.tp1-intro-block{
+    width: 500px;
+    font-weight: initial;
+    margin-top: 20px;
+    margin-left: 30px;
+    line-height: 25px;
+    text-indent: 30px;
+}
+

@@ -41,13 +41,13 @@
 .teachers-b2{
     position: absolute;
     top: 65px;
-    right: 50px;
+    right: 150px;
     color: white;
     background-color: coral;
 }
 
 .teachers-like{
-    margin-left: 760px;
+    margin-left: 870px;
     margin-right: 15px;
     margin-top: 48px;
     font-size: 25px;

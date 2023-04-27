@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6cc3cf8b-5c77-449e-93b0-49e4e332110c" name="变更" comment="5">
+      <change afterPath="$PROJECT_DIR$/src/components/commentBox/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/commentBox/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/teachers/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/teachers/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/teachers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/teachers/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Talk/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Talk/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Layout/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Layout/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/PersonPage1/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/PersonPage1/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/PersonPage1/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/PersonPage1/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +57,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Developer/workplace/Webstorm_workplace/ReactProject/demo&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/个人/Project/Policy-retrieval-system&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -138,6 +141,9 @@
       <workItem from="1682427457164" duration="683000" />
       <workItem from="1682436161331" duration="5434000" />
       <workItem from="1682441677695" duration="2000" />
+      <workItem from="1682494334300" duration="7706000" />
+      <workItem from="1682502822493" duration="56000" />
+      <workItem from="1682573238172" duration="1169000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1681834929780</created>
@@ -181,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682443041919</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="5">
+      <created>1682443657878</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1682443657878</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

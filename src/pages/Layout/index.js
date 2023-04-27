@@ -4,10 +4,12 @@ import "@/pages/Layout/index.css"
 import Project from '@/components/college-project'
 import Calendar from '@/components/calendar'
 import Notice from '@/components/notice'
+import ScrollLock from "react-scrolllock";
 
 function Layout(){
   return(
       <div>
+
         <Nav/>
         <div className="layout-body">
           <Graph/>
@@ -17,6 +19,7 @@ function Layout(){
             <Calendar/>
           </div>
         </div>
+
       </div>
   )
 }
